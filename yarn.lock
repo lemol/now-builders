@@ -885,6 +885,11 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
+"@now/node-bridge@1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@now/node-bridge/-/node-bridge-1.2.0.tgz#28da8d454cf4767c8f70cc9a71cc7c7898146fca"
+  integrity sha512-GfntqkLJaHoaUZEhzTwz0oGBelHcyaxvDQEBYl+05ao+RIeKRoxJKum3rhSae2hR+cTD4zRu90GP5kI7Z+M78Q==
+
 "@samverschueren/stream-to-observable@^0.3.0":
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/@samverschueren/stream-to-observable/-/stream-to-observable-0.3.0.tgz#ecdf48d532c58ea477acfcab80348424f8d0662f"
@@ -1170,6 +1175,11 @@
   version "0.18.5"
   resolved "https://registry.yarnpkg.com/@zeit/ncc/-/ncc-0.18.5.tgz#5687df6c32f1a2e2486aa110b3454ccebda4fb9c"
   integrity sha512-F+SbvEAh8rchiRXqQbmD1UmbePY7dCOKTbvfFtbVbK2xMH/tyri5YKfNxXKK7eL9EWkkbqB3NTVQO6nokApeBA==
+
+"@zeit/ncc@0.19.1":
+  version "0.19.1"
+  resolved "https://registry.yarnpkg.com/@zeit/ncc/-/ncc-0.19.1.tgz#8914765cff5ddef5645f56de3ce244d3e5000e58"
+  integrity sha512-E7Erja/jzyE8tjfhMgSl+uDX200CGVfSKNcYYiZY2Ds2yHkD9ktDslu6qYZVoBw5ftzHSzv39J40u6mecno1wg==
 
 JSONStream@^1.0.4, JSONStream@^1.3.4:
   version "1.3.5"

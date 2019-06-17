@@ -1,6 +1,6 @@
 {
-  "name": "@now/node",
-  "version": "0.7.4-canary.13",
+  "name": "@lemol/now-node",
+  "version": "0.7.4",
   "license": "MIT",
   "main": "./dist/index",
   "repository": {
@@ -9,9 +9,9 @@
     "directory": "packages/now-node"
   },
   "dependencies": {
-    "@now/node-bridge": "1.2.0-canary.1",
+    "@now/node-bridge": "1.2.0",
     "@types/node": "*",
-    "@zeit/ncc": "0.18.5",
+    "@zeit/ncc": "0.19.1",
     "@zeit/ncc-watcher": "1.0.3",
     "fs-extra": "7.0.1"
   },
